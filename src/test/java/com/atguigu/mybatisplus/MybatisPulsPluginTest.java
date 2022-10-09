@@ -18,5 +18,6 @@ public class MybatisPulsPluginTest {
         userMapper.selectPage(page,null);
         System.out.println(page);
         System.out.println("奥里给");
+        System.out.println("奥里给第二次");
     }
 }
