@@ -17,5 +17,6 @@ public class MybatisPulsPluginTest {
         Page<User> page=new Page<>(2,3);
         userMapper.selectPage(page,null);
         System.out.println(page);
+        System.out.println("奥里给");
     }
 }
