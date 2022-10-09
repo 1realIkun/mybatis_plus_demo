@@ -19,5 +19,6 @@ public class MybatisPulsPluginTest {
         System.out.println(page);
         System.out.println("奥里给");
         System.out.println("奥里给第二次");
+        System.out.println("奥里给第三次");
     }
 }
